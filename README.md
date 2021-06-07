@@ -41,7 +41,28 @@ Tableau is a business intelligence and analytics platform that helps people see,
 
 It's good to remember that the more power you give the user, the less control you have over the story you want the data to tell. You have to find the right balance between interactivity (dynamic nature) and control (static nature).
 
+#### Choosing your Visualization:
 #### Decision Tree Explanation (Which story would you like to tell or which graph you should use in different cases): https://www.coursera.org/learn/visualize-data/supplement/XvN2U/data-grows-on-decision-trees
+
+#### The elements of data visualization art are line, shape, color, space and movement.
+
+Colors can be described by their hue, intensity, and value. 
+
+The hue of a color is basically its name, red, green, blue and so on.
+
+Intensity is how bright or dull a color is.
+
+The value is how light or dark the colors are in a visualization. Value indicates how much light is being reflected.
+
+Dark values with some black added are called shades of color.
+
+Light values with white added are called tints.
+
+
+
+
+
+
 
 
 
