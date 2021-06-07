@@ -41,7 +41,7 @@ Tableau is a business intelligence and analytics platform that helps people see,
 
 It's good to remember that the more power you give the user, the less control you have over the story you want the data to tell. You have to find the right balance between interactivity (dynamic nature) and control (static nature).
 
-#### Decision Tree Explanation: https://www.coursera.org/learn/visualize-data/supplement/XvN2U/data-grows-on-decision-trees
+#### Decision Tree Explanation (Which story would you like to tell or which graph you should use in different cases): https://www.coursera.org/learn/visualize-data/supplement/XvN2U/data-grows-on-decision-trees
 
 
 
