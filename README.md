@@ -60,6 +60,9 @@ Light values with white added are called tints.
 
 Data Composition => Combining the individual parts of a visualization and displaying them together as a whole.
 
+#### 3 Elements for Effective Visuals
+The first is clear meaning, good visualizations clearly communicate their intended insight. The second is a sophisticated use of contrast, which helps separate the most important data from the rest using visual context that our brains naturally look for. The third essential element for effective visuals is refined execution. Visuals with refined execution include deep attention to detail, using visual elements like lines, shapes, colors, value, space and movement.
+
 
 
 
