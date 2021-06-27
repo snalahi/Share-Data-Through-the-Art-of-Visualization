@@ -58,6 +58,9 @@ Dark values with some black added are called shades of color.
 
 Light values with white added are called tints.
 
+Data Composition => Combining the individual parts of a visualization and displaying them together as a whole.
+
+
 
 
 
