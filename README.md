@@ -63,8 +63,18 @@ Data Composition => Combining the individual parts of a visualization and displa
 #### 3 Elements for Effective Visuals:
 The first is clear meaning, good visualizations clearly communicate their intended insight. The second is a sophisticated use of contrast, which helps separate the most important data from the rest using visual context that our brains naturally look for. The third essential element for effective visuals is refined execution. Visuals with refined execution include deep attention to detail, using visual elements like lines, shapes, colors, value, space and movement.
 
+Design thinking is a process used to solve complex problems in a user-centric way. User-centricity means considering the user and their needs first.
 
+#### Design thinking for data visualization involves five phases:
+1. Empathize: Thinking about the emotions and needs of the target audience for the data visualization 
+2. Define: Figuring out exactly what your audience needs from the data
+3. Ideate: Generating ideas for data visualization
+4. Prototype: Putting visualizations together for testing and feedback
+5. Test: Showing prototype visualizations to people before stakeholders see them
 
+A headline is a line of words printed in large letters at the top of a visualization to communicate what data is being presented. It is the attention grabber that makes your audience want to read more.
+
+A subtitle supports the headline by adding more context and description. Adding a subtitle will help the audience better understand the details associated with your chart. Typically, the text for subtitles has a smaller font size than the headline. 
 
 
 
