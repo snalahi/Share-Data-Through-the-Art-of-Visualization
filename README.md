@@ -76,11 +76,16 @@ A headline is a line of words printed in large letters at the top of a visualiza
 
 A subtitle supports the headline by adding more context and description. Adding a subtitle will help the audience better understand the details associated with your chart. Typically, the text for subtitles has a smaller font size than the headline. 
 
+A diverging palette displays two ranges of values using color intensity to indicate magnitude. Intensity is a color’s brightness or dullness.
 
+A dashboard is a tool that organizes information, typically from multiple data sets, into one central location for tracking, analysis, and simple visualization through charts, graphs, and maps. 
 
+Data storytelling is communicating the meaning of a data set with visuals and a narrative that are customized for each particular audience.
 
+Speaking of business communications, one of the many ways that companies use visualization to tell data stories, is with word clouds. Word clouds are a pretty simple visualization of data. These words are presented in different sizes based on how often they appear in your data set. It's a great way to get
+someone's attention and to unlock stories from big blocks of text where each word alone could never be seen. Word clouds can be used in all sorts of ways. On social media, they can show you which topics show up in posts most often, or you can use them in blogs to highlight the ideas that interest readers the most. 
 
-
+Spotlighting is scanning through the data to quickly identify the most important insights. A data analyst uses spotlighting to pinpoint the most relevant data derived from their analysis and eliminate the less important details. 
 
 
 
