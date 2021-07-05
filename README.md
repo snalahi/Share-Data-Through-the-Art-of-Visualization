@@ -98,10 +98,15 @@ A good rule is to keep texts to less than five lines and 25 words per slide whil
 #### An important use-case for data storytelling
 A data analyst includes a visual in their presentation to represent information from a dataset. It’s important that the visual reflect the latest information, so the analyst wants it to update automatically if the original dataset changes. They should link the visual to its original file.
 
+#### Strorytelling is Presentation (like slide presentations)
 
+You will want to / need to establish the initial hypothesis. Your initial hypothesis is a theory you're trying to prove or disprove with data. 
 
+Heatmap => A map with different colors, where the color intensity represents severity.
 
-
+---------
+A correlation coefficient is a measure of strength and direction of the linear relationship between two variables. So in other words, the closer to one (1) that the number is, the more positively correlated they are. Meaning, when one of the variables goes up, so does the other one. The closer to negative one (-1) that the number is, the more negatively correlated they are. Meaning, as one of the variables, such as happiness, goes up that the other variable like health would go down. And the closer to zero (0) it is, it means they are not correlated at all, which is what we saw between population and happiness, and means that they have no relationship together.
+---------
 
 
 
