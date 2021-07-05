@@ -108,7 +108,15 @@ Heatmap => A map with different colors, where the color intensity represents sev
 A correlation coefficient is a measure of strength and direction of the linear relationship between two variables. So in other words, the closer to one (1) that the number is, the more positively correlated they are. Meaning, when one of the variables goes up, so does the other one. The closer to negative one (-1) that the number is, the more negatively correlated they are. Meaning, as one of the variables, such as happiness, goes up that the other variable like health would go down. And the closer to zero (0) it is, it means they are not correlated at all, which is what we saw between population and happiness, and means that they have no relationship together.
 **********
 
-
+#### Good data presentation (Key Points):
+- Title and date the presentation was last updated
+- Flow or table of contents
+- Transition slides 
+- Visual introduction to the data (also used as a repeated theme)
+- Animated bullet points
+- Annotations on top of visuals
+- Logic and progression 
+- Limitations to the data (caveats) - what the data can’t tell you
 
 
 
