@@ -104,9 +104,9 @@ You will want to / need to establish the initial hypothesis. Your initial hypoth
 
 Heatmap => A map with different colors, where the color intensity represents severity.
 
----------
+**********
 A correlation coefficient is a measure of strength and direction of the linear relationship between two variables. So in other words, the closer to one (1) that the number is, the more positively correlated they are. Meaning, when one of the variables goes up, so does the other one. The closer to negative one (-1) that the number is, the more negatively correlated they are. Meaning, as one of the variables, such as happiness, goes up that the other variable like health would go down. And the closer to zero (0) it is, it means they are not correlated at all, which is what we saw between population and happiness, and means that they have no relationship together.
----------
+**********
 
 
 
