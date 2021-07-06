@@ -118,7 +118,7 @@ A correlation coefficient is a measure of strength and direction of the linear r
 - Logic and progression 
 - Limitations to the data (caveats) - what the data can’t tell you
 
-
+An effective slideshow guides your audience through your main communication points, but it does not repeat every word you say. A best practice is to keep text to fewer than five lines and 25 words per slide.
 
 
 
